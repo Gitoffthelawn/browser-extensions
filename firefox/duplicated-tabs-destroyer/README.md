@@ -4,4 +4,4 @@
 
 Get rid of those pesky duplicated tabs cluttering your browser session.
 
-[The published add-on page](https://addons.mozilla.org/it/firefox/addon/duplicated-tabs-destroyer/)
+[The published add-on page](https://addons.mozilla.org/firefox/addon/duplicated-tabs-destroyer/)
